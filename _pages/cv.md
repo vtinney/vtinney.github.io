@@ -11,30 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Environmental Health, George Washington University, 2022 (expected)
+  * Advisor: Dr. Susan Anenberg
+* M.P.H in Environmental Health Science and Policy, George Washington University, 2013
+* B.A. in International Affairs, Florida State University, 2008
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-Present: Senior Research Associate, Department of Environmental and Occupational Health, George Washington University Milken Institute School of Public Health
+  * Conducting hyperlocal air pollution health impact assessment using exposure estimates from mobile monitoring in two US cities: Oakland, CA, and Houston, TX.
+* 2017-2018: Research Associate, Uniformed Services University of the Health Sciences
+* 2017: Research Associate, Environmental Health Analytics, LLC
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Graduate Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spring 2020: Applied Data Analysis in Environmental and Occupational Health, George Washington University
+* Fall 2019: Assessment and Controls of Environmental and Occupational Hazards, George Washington University
+* Fall 2017: Biostatistics I, Uniformed Services University of the Health Sciences
+
+Technical Skills & Languages
+======
+* Statistical Programs: R, STATA, SAS
+* Software: ArcGIS, Tableau, BenMap
+* Languages: Spanish (Intermediate Working Proficiency)
+
+Awards
+======
+* Grand Prize Winner ($5,000), American Geophysical Union and NASA Data visualization and Storytelling Competition.
+
+Professional experience
+======
+* 2018-2019: Homeland Security Analyst, ICF International, Inc., U.S. Department of Homeland Security, Washington, DC
+* 2015-2017: Recommendations Specialist, U.S. Chemical Safety and Hazard Investigation Board, Washington, DC
+* 2013-2015: Project Coordinator, Children’s National Health System, Washington, DC
+  * Mid-Atlantic Center for Children’s Health and the Environment
+* 2014-2015: Reach the Decision Makers Fellowship, Program on Reproductive Health and the Environment, Washinton, DC
+  * University of California, San Francisco
+* 2012: Intern, U.S. Chemical Safety and Hazard Investigation Board, Washinton, DC
+* 2012: Intern, Children’s Environmental Health Network, Washinton, DC
+* 2011: Intern, Health & Environment, National Environmental Education Foundation, Washinton, DC
+* 2009-2011: Operations Analyst, Deutsche Bank, Jacksonville, FL
 
 Publications
 ======
@@ -48,12 +64,13 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Professional Memberships and Services
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* American Geophysical Union
+* American Public Health Association
+* Delta Omega Honor Society in Public Health, Omega Chapter
+  * Inductee Represents Top 10% of Graduating Student Body
+* Reviewer, American Journal of Obstetrics and Gynecology
+* Reviewer, Grants and Awards, National Environmental Education Foundation
+* 2013-2015: Advisory Committee Member, Lead Poisoning Prevention and Health Homes Advisory Committee
+  * District of Columbia Department of the Environment
