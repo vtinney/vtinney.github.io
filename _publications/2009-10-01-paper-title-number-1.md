@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Estimates of the Global Burden of Ambient PM2.5, Ozone, and NO2 on Asthma Incidence and Emergency Room Visits"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2018
+#venue: 'Environ Health Perspect'
+paperurl: 'https://ehp.niehs.nih.gov/doi/full/10.1289/EHP3766'
+citation: 'Anenberg SC, Henze DK, Tinney V, Kinney PL, Raich W, Fann N, et al. (2018). &quot;Estimates of the Global Burden of Ambient PM2.5, Ozone, and NO2 on Asthma Incidence and Emergency Room Visits.&quot; <i>Environ Health Perspect</i>. 126(10):107004-1-14.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP3766)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Anenberg SC, Henze DK, Tinney V, Kinney PL, Raich W, Fann N, et al. Estimates of the Global Burden of Ambient PM2.5, Ozone, and NO2 on Asthma Incidence and Emergency Room Visits. Environ Health Perspect. 2018;126(10):107004-1-14. 
