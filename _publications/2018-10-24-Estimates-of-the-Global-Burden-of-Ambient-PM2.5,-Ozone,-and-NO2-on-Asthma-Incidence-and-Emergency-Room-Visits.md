@@ -2,7 +2,6 @@
 title: "Estimates of the Global Burden of Ambient PM2.5, Ozone, and NO2 on Asthma Incidence and Emergency Room Visits"
 collection: publications
 permalink: /publication/2018-10-24-Estimates-of-the-Global-Burden-of-Ambient-PM2.5,-Ozone,-and-NO2-on-Asthma-Incidence-and-Emergency-Room-Visits
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2018-10-24
 venue: 'Environ Health Perspect'
 paperurl: 'https://ehp.niehs.nih.gov/doi/full/10.1289/EHP3766'
