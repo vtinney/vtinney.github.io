@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Veronica T. Southerland"
 title_separator          : "-"
-name                     : &name "Veronica Southerland"
+name                     : &name "Veronica T. Southerland"
 description              : &description "Researcher and doctoral student"
 url                      : https://vtinney.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
