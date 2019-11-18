@@ -3,9 +3,9 @@ title: "School siting near industrial chemical facilities: Findings from the U.S
 collection: publications
 permalink: /publication/2016-08-02-School-siting-near-industrial-chemical-facilities:-Findings-from-the-U.S.-Chemical-Safety-Board’s-investigation-of-the-West-Fertilizer-explosion
 date: 2016-08-02
-venue: 'Journal 1'
+venue: 'Environ Health Perspect'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Tinney V, Denton J, Tyler L, Paulson J. (2016). &quot;School siting near industrial chemical facilities: Findings from the U.S. Chemical Safety Board’s investigation of the West Fertilizer explosion.&quot; <i>Environ Health Perspect</i>. 124(10):1493-1496.'
+citation: '<b>Tinney V</b>, Denton J, Tyler L, Paulson J. (2016). &quot;School siting near industrial chemical facilities: Findings from the U.S. Chemical Safety Board’s investigation of the West Fertilizer explosion.&quot; <i>Environ Health Perspect</i>. 124(10):1493-1496.'
 ---
 [Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5047761/)
 
