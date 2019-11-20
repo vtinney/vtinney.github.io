@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-As a researcher and doctoral student at the George Washington University Milken Institute School of Public Health, Department of Environmental and Occupational Health, I focus on the health impacts of air pollution using quantitative health impact assessment. 
+I am a researcher and doctoral student at the George Washington University Milken Institute School of Public Health, Department of Environmental and Occupational Health. My work focuses on the health impacts of air pollution using quantitative health impact assessment. 
 
-My current work aims to conduct health impact assessment at the city and local scale. I enjoy finding new ways to visualize our data and communicate the risk estimates we produce in an easily understood manner that can influence environmental policy.
+My current work aims to conduct health impact assessment at the city and local scale. I enjoy finding new ways to visualize our data and communicate risk estimates in an easily understood manner with the hopes of can influencing environmental policy.
 
 Check out my portfolio and tutorials for more on conducting and visualizing health impacts and air pollution in R!
 
