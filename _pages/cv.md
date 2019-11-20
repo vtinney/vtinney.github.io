@@ -37,7 +37,7 @@ Technical Skills & Languages
 
 Awards
 ======
-* Grand Prize Winner ($5,000), American Geophysical Union and NASA Data visualization and Storytelling Competition.
+* Grand Prize Winner ($5,000), American Geophysical Union and NASA Data Visualization and Storytelling Competition.
 
 Professional experience
 ======
