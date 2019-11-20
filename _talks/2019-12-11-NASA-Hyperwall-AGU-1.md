@@ -1,5 +1,5 @@
 ---
-title: "NASA and AGU Datavisualization and Storytelling Competition"
+title: "NASA and AGU Data Visualization and Storytelling Competition"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-12-11-NASA-Hyperwall-AGU
