@@ -12,5 +12,3 @@ I am a researcher and doctoral student at the George Washington University Milke
 
 My current work aims to conduct health impact assessment at the city and local scale. I enjoy finding new ways to visualize our data and communicate risk estimates in an easily understood manner with the hopes of can influencing environmental policy.
 
-Check out my portfolio and tutorials for more on conducting and visualizing health impacts and air pollution in R!
-
