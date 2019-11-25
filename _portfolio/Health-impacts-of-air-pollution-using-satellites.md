@@ -1,5 +1,6 @@
 ---
 title: "Health impacts of air pollution using satellites"
+permalink: /portfolio/Health-impacts-of-air-pollution-using-satellites
 excerpt: "Local health impact assessment video 1<br/><img src='/images/still.PNG'>"(https://youtu.be/zSZt83-mi6k)
 collection: portfolio
 ---
