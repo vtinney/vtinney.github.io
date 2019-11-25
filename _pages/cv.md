@@ -31,8 +31,8 @@ Graduate Teaching Experience
 
 Technical Skills & Languages
 ======
-* Statistical Programs: R, STATA, SAS
-* Software: ArcGIS, Tableau, BenMap
+* Programming/Statistical Languages: R, STATA, SAS, Slurm Workload Manager, Gdal
+* Software: ArcMap/ArcPro, Tableau, BenMap
 * Languages: Spanish (Intermediate Working Proficiency)
 
 Awards
