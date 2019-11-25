@@ -68,6 +68,7 @@ Professional Memberships and Services
 ======
 * American Geophysical Union
 * American Public Health Association
+* American Meteorological Society
 * Delta Omega Honor Society in Public Health, Omega Chapter
   * Inductee Represents Top 10% of Graduating Student Body
 * Reviewer, American Journal of Obstetrics and Gynecology
