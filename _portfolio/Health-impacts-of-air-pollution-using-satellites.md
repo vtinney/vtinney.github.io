@@ -3,7 +3,6 @@ title:  "Health impacts of air pollution using satellites"
 collection: portfolio
 type: "Portfolio"
 ---
-## Local health impact assessment video
 [<img src='/images/still.PNG'>](https://youtu.be/zSZt83-mi6k)
 
 
