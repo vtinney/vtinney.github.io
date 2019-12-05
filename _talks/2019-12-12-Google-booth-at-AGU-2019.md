@@ -1,5 +1,5 @@
 ---
-title: "Google booth at AGU 2019"
+title: "Google Street View and the health burden of air pollution"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-12-12-Google-booth-at-AGU-2019
@@ -8,4 +8,4 @@ date: 2019-12-12
 location: "San Francisco, California"
 ---
 
-Coming soon!
+Presented at the Google booth at the Fall AGU 2019 meeting. Coming soon!
