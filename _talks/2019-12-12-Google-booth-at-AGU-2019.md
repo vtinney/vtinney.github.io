@@ -8,4 +8,4 @@ date: 2019-12-12
 location: "San Francisco, California"
 ---
 
-Presented at the Google booth at the Fall AGU 2019 meeting. Coming soon!
+Presented at the Google booth at the Fall AGU 2019 meeting.
