@@ -1,5 +1,5 @@
 ---
-title:  "Air pollutant concentration density plots"
+title:  "Pollutant concentration density plots"
 collection: portfolio
 type: "Portfolio"
 ---
