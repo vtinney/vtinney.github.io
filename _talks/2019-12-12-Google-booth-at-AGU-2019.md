@@ -10,4 +10,4 @@ location: "San Francisco, California"
 
 Presented at the Google booth at the Fall AGU 2019 meeting.
 
-Slides https://docs.google.com/presentation/d/e/2PACX-1vTGmP4COI9qU5FtroGeLPYP4BT9x-oFya_3c_5NGpXY95VBHh-6mpbIkGQaSiwzj1pr6Jx6L6nDxDx6/pub?slide=id.g7a554f672f_1_148
+[<img src='/images/google.PNG'>](https://docs.google.com/presentation/d/e/2PACX-1vTGmP4COI9qU5FtroGeLPYP4BT9x-oFya_3c_5NGpXY95VBHh-6mpbIkGQaSiwzj1pr6Jx6L6nDxDx6/pub?slide=id.g7a554f672f_1_148)
