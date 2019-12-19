@@ -12,6 +12,6 @@ This is a short presentation on our work to estimate the health impacts of air p
 
 [<img src='/images/still.PNG'>](https://youtu.be/zSZt83-mi6k)
 
-<img src='/images/NASA 2.JPG'>
+<img src='/images/NASA 2.jpg'>
 
 
