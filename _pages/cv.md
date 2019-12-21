@@ -19,7 +19,6 @@ Education
 Research Experience
 ======
 * 2019-Present: Senior Research Associate, Department of Environmental and Occupational Health, George Washington University Milken Institute School of Public Health
-  * Conducting hyperlocal air pollution health impact assessment using exposure estimates from mobile monitoring in two US cities: Oakland, CA, and Houston, TX.
 * 2017-2018: Research Associate, Uniformed Services University of the Health Sciences
 * 2017: Research Associate, Environmental Health Analytics, LLC
 
@@ -37,17 +36,15 @@ Technical Skills & Languages
 
 Awards
 ======
-* Grand Prize Winner ($5,000), American Geophysical Union and NASA Data Visualization and Storytelling Competition.
-* Milken Institute School of Public Health Institutional Scholarship for doctoral tuition.
+* 2019: Grand Prize Winner ($5,000), American Geophysical Union and NASA Data Visualization and Storytelling Competition.
+* 2018: Milken Institute School of Public Health Institutional Scholarship for full doctoral tuition.
 
 Professional experience
 ======
 * 2018-2019: Homeland Security Analyst, ICF International, Inc., U.S. Department of Homeland Security, Washington, DC
 * 2015-2017: Recommendations Specialist, U.S. Chemical Safety and Hazard Investigation Board, Washington, DC
 * 2013-2015: Project Coordinator, Children’s National Health System, Washington, DC
-  * Mid-Atlantic Center for Children’s Health and the Environment
 * 2014-2015: Reach the Decision Makers Fellowship, Program on Reproductive Health and the Environment, Washinton, DC
-  * University of California, San Francisco
 * 2012: Intern, U.S. Chemical Safety and Hazard Investigation Board, Washinton, DC
 * 2012: Intern, Children’s Environmental Health Network, Washinton, DC
 * 2011: Intern, Health & Environment, National Environmental Education Foundation, Washinton, DC
@@ -65,14 +62,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Professional Memberships and Services
+Professional Memberships and Service
 ======
 * American Geophysical Union
 * American Public Health Association
 * American Meteorological Society
-* Delta Omega Honor Society in Public Health, Omega Chapter
-  * Inductee Represents Top 10% of Graduating Student Body
+* Delta Omega Honor Society in Public Health, Omega Chapter. Inductee Represents Top 10% of Graduating Student Body
 * Reviewer, American Journal of Obstetrics and Gynecology
 * Reviewer, Grants and Awards, National Environmental Education Foundation
-* 2013-2015: Advisory Committee Member, Lead Poisoning Prevention and Health Homes Advisory Committee
-  * District of Columbia Department of the Environment
+* 2013-2015: Advisory Committee Member, Lead Poisoning Prevention and Health Homes Advisory Committee, District of Columbia Department of the Environment
