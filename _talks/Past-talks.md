@@ -6,7 +6,7 @@ type: "Talk"
 
 Past talks 2013-2016
 
-###2016	
+###2016
 American Public Health Association Meeting, Denver, CO
 *Outside the Facility Fenceline: The Proximity of Chemical Facilities to Communities and Potential Public Consequences of Catastrophic Accidents*
 
