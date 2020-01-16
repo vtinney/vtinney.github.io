@@ -2,6 +2,7 @@
 title: "Past talks"
 collection: talks
 type: "Talk"
+permalink: /talks/2016-01-01-Past-talks
 date: 2016-01-01
 ---
 
