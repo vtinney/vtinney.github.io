@@ -2,7 +2,7 @@
 title: "Poster: Assessing the distribution of air pollution health risks within cities: a neighborhood-scale analysis leveraging high resolution datasets in the Bay area, California."
 collection: talks
 type: "Talk"
-permalink: /talks/2019-12-10-AGU-Poster
+permalink: /talks/2019-12-10-Poster:-Assessing-the-distribution-of-air-pollution-health-risks-within-cities:-a-neighborhood-scale-analysis-leveraging-high-resolution-datasets-in-the-Bay area,-California
 venue: "American Geophysical Union, Fall 2019 meeting"
 date: 2019-12-10
 location: "San Francisco, California"
