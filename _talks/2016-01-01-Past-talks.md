@@ -2,6 +2,7 @@
 title: "Past talks"
 collection: talks
 type: "Talk"
+date: 2016-01-01
 ---
 
 Past talks 2013-2016
