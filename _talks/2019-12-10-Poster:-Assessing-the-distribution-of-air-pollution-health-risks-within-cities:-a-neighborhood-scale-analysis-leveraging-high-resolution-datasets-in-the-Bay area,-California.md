@@ -10,4 +10,4 @@ location: "San Francisco, California"
 
 Presented at the Fall AGU 2019 meeting, GeoHealth Section poster session.
 
-<img src='/images/posteragu.JPG'>
+<img src='/images/posteragu.png'>
