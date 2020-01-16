@@ -6,18 +6,18 @@ type: "Talk"
 
 Past talks 2013-2016
 
-###2016
+### 2016
 American Public Health Association Meeting, Denver, CO
 *Outside the Facility Fenceline: The Proximity of Chemical Facilities to Communities and Potential Public Consequences of Catastrophic Accidents*
 
 National Fire Protection Association Annual Conference, Las Vegas, NV
 *U.S. Chemical Safety Board Recommendations to the National Fire Protection Association*
 
-###2015	
+### 2015	
 People Concerned About Chemical Safety, Webinar 
 *U.S. Chemical Safety and Hazard Investigation Board Recommendations Update*
 
-###2014	
+### 2014	
 Delaware Association of School Nurses Annual Conference, Dewey Beach, DE
 *An Introduction to Children’s Health and the Environment*
 
@@ -39,7 +39,7 @@ Pennsylvania Association of School Nurses and Practitioners, State College, PA
 Addressing Environmental Concerns to Improve Health Outcomes, University of Pittsburgh, PA
 *Integrating Environmental Health into Home Visiting Programs: Environmental Health Issues in the Home*
 
-###2013	
+### 2013	
 Virginia Association of School Nurses Annual Conference, Williamsburg, VA
 *An Introduction to Children’s Health and the Environment*
 
