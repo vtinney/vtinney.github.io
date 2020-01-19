@@ -36,7 +36,7 @@ Technical Skills & Languages
 
 Awards
 ======
-* 2019: Grand Prize Winner ($5,000), American Geophysical Union and NASA Data Visualization and Storytelling Competition.
+* 2019: Grand Prize Winner, American Geophysical Union and NASA Data Visualization and Storytelling Competition.
 * 2018: Milken Institute School of Public Health Institutional Scholarship for full doctoral tuition.
 
 Professional experience
