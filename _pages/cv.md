@@ -24,7 +24,7 @@ Research Experience
 
 Graduate Teaching Experience
 ======
-* Spring 2020: Quantitative Analysis in Environmental and Occupational Health, George Washington University
+* Spring 2020: Quantitative Methods in Environmental and Occupational Health, George Washington University
 * Fall 2019: Assessment and Controls of Environmental and Occupational Hazards, George Washington University
 * Fall 2017: Biostatistics I, Uniformed Services University of the Health Sciences
 
@@ -38,7 +38,6 @@ Awards
 ======
 * 2020: Top 100, New Venture Competition, George Washington University
 * 2019: Grand Prize Winner, American Geophysical Union and NASA Data Visualization and Storytelling Competition.
-* 2018: Milken Institute School of Public Health Institutional Scholarship for full doctoral tuition.
 
 Professional experience
 ======
