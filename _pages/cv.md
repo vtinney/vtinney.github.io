@@ -64,6 +64,7 @@ Talks
   
 Professional Memberships and Service
 ======
+* 2020- Member, Society for Risk Analysis
 * 2019- Member, American Geophysical Union
 * 2013- Member, American Public Health Association
 * 2019- Member, American Meteorological Society
