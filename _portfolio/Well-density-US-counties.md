@@ -4,7 +4,7 @@ collection: portfolio
 type: "Portfolio"
 ---
 
-<img src='/images/well_density.png'>
+<img src='/images/well_density.pdf'>
 
 ## Well density in US counties
 Data for 2014 from the Energy Information Agency as published by Oak Ridge National Laboratories
