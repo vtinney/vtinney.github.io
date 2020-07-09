@@ -4,7 +4,7 @@ collection: portfolio
 type: "Portfolio"
 ---
 
-<img src='/images/ndvi.png'>
+<img src='/images/ndvi.PNG'>
 
 ## NDVI Washington, DC
 Median NDVI for 2018
