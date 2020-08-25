@@ -2,7 +2,7 @@
 title: "ISEE-2020-presentation"
 collection: talks
 type: "Talk"
-permalink: /talks/2020-08-24-ISEE-2020-presentation.md
+permalink: /talks/2020-08-24-ISEE-2020-presentation
 venue: "International Society for Environmental Epidemiology, 2020 annual meeting"
 date: 2020-08-24
 location: "Virtual meeting"
