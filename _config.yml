@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Veronica T. Southerland"
 title_separator          : "-"
 name                     : &name "Veronica T. Southerland"
-description              : &description "Researcher and doctoral student"
+description              : &description "PhD candidate, George Washington University"
 url                      : https://vtinney.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vtinney.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Veronica Southerland"
   avatar           : "profile.png"
-  bio              : "Researcher and doctoral student at the George Washington University Milken Institute of Public Health"
+  bio              : "PhD candidate, George Washington University Milken Institute of Public Health"
   location         : "Washington, DC"
   employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
