@@ -8,6 +8,6 @@ type: "Portfolio"
 
 ## US Sedimentary Basins and Shale Plays in the lower 48 states
 
-Source: [EIA, 2016](https://www.eia.gov/maps/maps.htm)!
+Source: [EIA, 2016](https://www.eia.gov/maps/maps.htm).
 
 Created in ArcPro.
