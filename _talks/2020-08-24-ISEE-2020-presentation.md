@@ -1,5 +1,5 @@
 ---
-title: "ISEE-2020-presentation."
+title: "ISEE-2020-presentation"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-08-24-ISEE-2020-presentation.md
