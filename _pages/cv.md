@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Environmental Health, George Washington University, 2022 (expected)
+* Ph.D candidate, Environmental Health, George Washington University, 2022 (expected)
   * Advisor: Dr. Susan Anenberg
 * M.P.H in Environmental Health Science and Policy, George Washington University, 2013
 * B.A. in International Affairs, Florida State University, 2008
 
 Research Experience
 ======
-* 2019-Present: Senior Research Associate, Department of Environmental and Occupational Health, George Washington University Milken Institute School of Public Health
+* 2019-2020: Senior Research Associate, Department of Environmental and Occupational Health, George Washington University Milken Institute School of Public Health
 * 2017-2018: Research Associate, Uniformed Services University of the Health Sciences
 * 2017: Research Associate, Environmental Health Analytics, LLC
 
@@ -41,6 +41,7 @@ Awards
 
 Professional experience
 ======
+* 2020-Present: Environmental Protection Specialist, US Environmental Protection Agency, Washington, DC
 * 2018-2019: Homeland Security Analyst, ICF International, Inc., U.S. Department of Homeland Security, Washington, DC
 * 2015-2017: Recommendations Specialist, U.S. Chemical Safety and Hazard Investigation Board, Washington, DC
 * 2013-2015: Project Coordinator, Children’s National Health System, Washington, DC
