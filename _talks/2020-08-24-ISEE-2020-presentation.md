@@ -1,5 +1,5 @@
 ---
-title: "Presentation: Assessing the distribution of air pollution health risks within cities: a neighborhood-scale analysis leveraging high resolution datasets in the Bay area, California."
+title: "ISEE-2020-presentation."
 collection: talks
 type: "Talk"
 permalink: /talks/2020-08-24-ISEE-2020-presentation.md
