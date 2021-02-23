@@ -1,8 +1,8 @@
 ---
-title: 'Using Tidycensus package to extract ACS 5-year estimates for the whole US'
-type: "posts"
-permalink: /posts/2022-02-22-Tidycensus
+title: 'Using Tidycensus package to extract ACS 5-year estimates'
 date: 2022-02-22
+permalink: /posts/2022/02/Tidycensus/
+
 ---
 
-Insert markdown blog
+This is a sample blog post. 
