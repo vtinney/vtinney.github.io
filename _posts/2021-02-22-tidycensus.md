@@ -9,18 +9,18 @@ permalink: /posts/2021/02/tidycensus/
 `#install.packages('tidycensus')
 library(tidycensus)
 library(tidyverse)
-library(data.table)`
+library(data.table)
 
-`census_api_key("cf7ba23c01a84fe015a7669aa755f04bd2fcb4e2")`
+census_api_key("cf7ba23c01a84fe015a7669aa755f04bd2fcb4e2")
 
 #2001, 2004 - dicennial census (2000)
 #2006, 2008 - ACS 2005-2009
 #2011, 2013, 2016  - ACS Five year
 
-`# v16 <- load_variables(2016, "acs5", cache = TRUE)
-# View(v16)`
+# v16 <- load_variables(2016, "acs5", cache = TRUE)
+# View(v16)
 
-`# B02001_001	Estimate!!Total	RACE
+# B02001_001	Estimate!!Total	RACE
 # B02001_002	Estimate!!Total!!White alone	RACE
 # B02001_003	Estimate!!Total!!Black or African American alone	RACE
 # B02001_004	Estimate!!Total!!American Indian and Alaska Native alone	RACE
@@ -29,17 +29,17 @@ library(data.table)`
 # B02001_007	Estimate!!Total!!Some other race alone	RACE
 # B03001_001	Estimate!!Total	HISPANIC OR LATINO ORIGIN BY SPECIFIC ORIGIN
 # B03001_003	Estimate!!Total!!Hispanic or Latino	HISPANIC OR LATINO ORIGIN BY SPECIFIC ORIGIN
-# B17001_002	Estimate!!Total!!Income in the past 12 months below poverty level	POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE`
+# B17001_002	Estimate!!Total!!Income in the past 12 months below poverty level	POVERTY STATUS IN THE PAST 12 MONTHS BY SEX BY AGE
 
-`years <- c(2016,2013,2011,2009)`
+years <- c(2016,2013,2011,2009)
 
-`us <- c("AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID",
+us <- c("AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID",
         "IL","IN","IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO",
         "MT","NE","NV","NH","NJ","NM","NY","NC","ND","OH","OK","OR","PA",
-        "RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY")`
+        "RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY")
 
 
-`for(k in 1:length(years)){
+for(k in 1:length(years)){
   lists <- list()
 
   for (i in 1:length(us)){
