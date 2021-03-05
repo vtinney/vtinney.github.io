@@ -9,34 +9,34 @@ I have a new appreciation for studies using ACS data!
 
 I'm using ACS data in my third dissertation and was finding downloading all the ACS data from Census.gov to be a big pain. Bring in the Tidycensus package to the rescue. Along with some other packages below, I was able to download multiple years for all states and multiple variables.
 
-`library(tidycensus)
+```library(tidycensus)
 library(tidyverse)
 library(data.table)
-library(sf)`
+library(sf)```
 
 First you are going to need a free Census API key (just google that). Load it into R like so:
-`census_api_key("your key number here")`
+```census_api_key("your key number here")```
 
 To see what variables I wanted to include, I use the load_variables command
 
-`v16 <- load_variables(2016, "acs5", cache = TRUE)
-View(v16)`
+```v16 <- load_variables(2016, "acs5", cache = TRUE)
+View(v16)```
 
 Now, I had some trouble exporting the geometries needed to create a shapefile. However, this simple command seemed to fix that:
-`options(tigris_use_cache = FALSE)`
+```options(tigris_use_cache = FALSE)```
 
 I then set about creating a massive Do-loop, because I am old school. First I set my vectors:
 
-`years <- c(2009,2011,2013,2016)
+```years <- c(2009,2011,2013,2016)
 
 us <- c("AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID",
         "IL","IN","IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO",
         "MT","NE","NV","NH","NJ","NM","NY","NC","ND","OH","OK","OR","PA",
-        "RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY")`
+        "RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY")```
 
 Now for the do-loop. Creating a list allows me to store the results in a list for each state within the year I'm running. I'll then merge all the lists to create one shapefile.
 
-`for(k in 1:length(years)){
+```for(k in 1:length(years)){
   lists <- list()
  for (i in 1:length(us)){
     acs_df <- get_acs(geography = "tract", 
@@ -71,5 +71,5 @@ st_write(all_us_df, paste(years[k],'_acs_2.shp',sep='')) # export the shapefiles
 print(paste('fileout',years[k],sep=''))
 rm(all_us_df) # remove to save space on my computer
 rm(lists)
-}`
+}```
 
