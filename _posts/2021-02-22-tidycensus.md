@@ -7,7 +7,7 @@ permalink: /posts/2021/02/tidycensus/
 
 I have a new appreciation for studies using ACS data! 
 
-I'm using ACS data in my third dissertation and was finding downloading all the ACS data from Census.gov to be a big pain. Bring in the Tidycensus package to the rescue. Along with some other packages below, I was able to download multiple years for all states and multiple variables.
+I'm using ACS data in my third dissertation paper and was finding downloading all the ACS data from Census.gov to be a big pain. Bring in the Tidycensus package to the rescue. Along with some other packages below, I was able to download multiple years for all states and multiple variables.
 
 ```
 library(tidycensus)
