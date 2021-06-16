@@ -12,8 +12,8 @@ main:
   - title: "Talks"
     url: /talks/    
           
-  #- title: "Tutorials"
-  #  url: /tutorials/
+  - title: "Datasets"
+    url: /datasets/
   
   - title: "Blog"
     url: /posts/
